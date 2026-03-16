@@ -37,9 +37,6 @@ No código, procurar por `# TODO: reescrever este texto com outras palavras pala
 ### 6. Aba da questão extra vídeo do YouTube
 Registre no dashboard as anotações do grupo e dúvidas sobre o video do youtube, pontos principais e explicação do coeficiente mencionado. No código, procurar por `# TODO: FALTA ADICIONAR a aba da questão extra`.
 
-## Adicionar nome e rm no README.MD
-- william 
-
 ---
 
 ## Como rodar o projeto
